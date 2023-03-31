@@ -19,6 +19,7 @@ require (
 	github.com/tmax-cloud/hypercloud-multi-operator v0.5.1-b1f2
 	github.com/tmax-cloud/hypercloud-single-operator v0.0.0-20210222045913-0ace319d7c34
 	github.com/tmax-cloud/template-operator v0.0.1
+	github.com/tmax-cloud/template-operator v0.0.1
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.24.2
